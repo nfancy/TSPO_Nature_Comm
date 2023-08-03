@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/674288822.svg)](https://zenodo.org/badge/latestdoi/674288822)
+
+
 # TSPO_Nature_Comm
 
 ### Translocator protein is a marker of activated microglia in rodent models but not human neurodegenerative diseases 
